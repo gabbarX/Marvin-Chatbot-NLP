@@ -1,5 +1,4 @@
 Flask==3.0.3
-tensorflow==2.16.2
 numpy==1.26.4
 nltk==3.8.1
 keras==3.4.1
